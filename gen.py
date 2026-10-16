@@ -17,7 +17,7 @@ manifest = {
         "monthly-quota fallback, then Cloudflare Web Search as the paid safety net; "
         "notifies the user when free quotas run out."
     ),
-    "author": "Justin Hallé",
+    "author": "shpaw415",
     "repo": "shpaw415/web-search",
     "category": "utilities",
     "tags": ["search", "web", "brave", "tavily", "cloudflare", "agent"],

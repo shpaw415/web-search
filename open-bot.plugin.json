@@ -2,9 +2,9 @@
   "$schema": "/home/agent/.config/opencode/skills/plugin/open-bot.plugin.schema.json",
   "id": "web-search",
   "name": "Web Search",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Web search for the agent: Brave and Tavily free tiers with automatic monthly-quota fallback, then Cloudflare Web Search as the paid safety net; notifies the user when free quotas run out.",
-  "author": "Justin Hallé",
+  "author": "shpaw415",
   "repo": "shpaw415/web-search",
   "category": "utilities",
   "tags": [
